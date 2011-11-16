@@ -1,0 +1,6 @@
+#External Dependencies
+#Wed Nov 16 14:24:07 EST 2011
+/home/aarondz/Calc/lib_managed/scala_2.9.0/test/scalatest_2.9.0-1.6.1.jar=src/test/scala/CalcTest.scala
+/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.0.x86_64/jre/lib/rt.jar=src/test/scala/CalcTest.scala
+/home/aarondz/Calc/project/boot/scala-2.9.0/lib/scala-library.jar=src/test/scala/CalcTest.scala
+/home/aarondz/Calc/target/scala_2.9.0/classes/com/example/Calc$.class=src/test/scala/CalcTest.scala
