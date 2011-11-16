@@ -1,5 +1,0 @@
-#External Dependencies
-#Wed Nov 16 14:23:51 EST 2011
-/home/aarondz/Calc/project/boot/scala-2.7.7/lib/scala-library.jar=TestProject.scala
-/home/aarondz/Calc/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7/sbt_2.7.7-0.7.7.jar=TestProject.scala
-/home/aarondz/Calc/project/plugins/target/scala_2.7.7/plugin-classes/eu/henkelmann/sbt/JUnitXmlTestsListener.class=TestProject.scala

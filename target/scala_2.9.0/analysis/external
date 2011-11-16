@@ -1,4 +1,0 @@
-#External Dependencies
-#Wed Nov 16 14:24:02 EST 2011
-/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.0.x86_64/jre/lib/rt.jar=src/main/scala/Calc.scala
-/home/aarondz/Calc/project/boot/scala-2.9.0/lib/scala-library.jar=src/main/scala/Calc.scala

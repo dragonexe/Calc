@@ -1,6 +1,0 @@
-#External Dependencies
-#Wed Nov 16 14:23:39 EST 2011
-/home/aarondz/Calc/project/boot/scala-2.7.7/lib/scala-library.jar=src_managed/junit_xml_listener-0.2/eu/henkelmann/sbt/JUnitXmlTestsListener.scala
-/home/aarondz/Calc/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7/test-interface-0.5.jar=src_managed/junit_xml_listener-0.2/eu/henkelmann/sbt/JUnitXmlTestsListener.scala
-/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.0.x86_64/jre/lib/rt.jar=src_managed/junit_xml_listener-0.2/eu/henkelmann/sbt/JUnitXmlTestsListener.scala
-/home/aarondz/Calc/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7/sbt_2.7.7-0.7.7.jar=src_managed/junit_xml_listener-0.2/eu/henkelmann/sbt/JUnitXmlTestsListener.scala
